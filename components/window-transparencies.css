@@ -38,3 +38,9 @@
 .sidebar-panel {
 	background: transparent !important;
 }
+
+/* transparent background for the selected tab */
+.tab-background[selected="true"] {
+	background-color: var(--sd-selected-tab-bg) !important;
+	background-image: none !important;
+}
