@@ -13,7 +13,7 @@ hide tabbar and move addressbar to the top */
 @import url('components/elements-transparencies.css');
 
 /* optional transparencies for window (broken on non GNU/linux systems) */
-/* @import url('components/window-transparencies.css'); */
+@import url('components/window-transparencies.css');
 
 /* optional TST tweaks */
 /* @import url('components/tst-tweaks.css'); */
